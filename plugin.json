@@ -1,0 +1,11 @@
+{
+    "name": "Screenshot",
+    "slug": "screenshot",
+    "version": "1.0.0",
+    "author": "Tanmatsu",
+    "description": "Capture screenshots with LOGO+P, saves to /sd/screenshot-*.ppm",
+    "type": "hook",
+    "api_version": 1,
+    "permissions": ["input", "display"],
+    "autostart": true
+}
